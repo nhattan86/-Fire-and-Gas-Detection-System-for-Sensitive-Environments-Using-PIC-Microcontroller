@@ -1,0 +1,2 @@
+# -Fire-and-Gas-Detection-System-for-Sensitive-Environments-Using-PIC-Microcontroller
+This project develops a fire and gas detection system tailored for gas-sensitive environments using a PIC microcontroller and MQ2 gas sensor. The system continuously monitors gas levels, triggering alerts via LED, buzzer, and LCD display when dangerous gas concentrations or fire risks are detected, ensuring proactive safety measures.
